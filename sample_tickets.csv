@@ -1,0 +1,7 @@
+ticket_id,priority,status,resolution_hours
+T001,High,Resolved,4
+T002,Medium,Resolved,12
+T003,Low,Open,
+T004,High,Resolved,7
+T005,Medium,Open,
+T006,Low,Resolved,24
